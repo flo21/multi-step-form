@@ -116,3 +116,77 @@ Use this section to outline areas that you want to continue focusing on in futur
 This is where you can give a hat tip to anyone who helped you out on this project. Perhaps you worked in a team or got some inspiration from someone else's solution. This is the perfect place to give them some credit.
 
 **Note: Delete this note and edit this section's content as necessary. If you completed this challenge by yourself, feel free to delete this section entirely.**
+
+
+  <!-- Step 2 start -->
+
+    Select your plan
+    You have the option of monthly or yearly billing.
+
+    Arcade
+    $9/mo
+
+    Advanced
+    $12/mo
+
+    Pro
+    $15/mo
+
+    Monthly
+    Yearly
+
+    Go Back
+    Next Step
+
+    <!-- Step 2 end -->
+
+    <!-- Step 3 start -->
+
+    Pick add-ons
+    Add-ons help enhance your gaming experience.
+
+    Online service
+    Access to multiplayer games
+    +$1/mo
+
+    Larger storage
+    Extra 1TB of cloud save
+    +$2/mo
+
+    Customizable Profile
+    Custom theme on your profile
+    +$2/mo
+
+    Go Back
+    Next Step
+
+    <!-- Step 3 end -->
+
+    <!-- Step 4 start -->
+
+    Finishing up
+    Double-check everything looks OK before confirming.
+
+    <!-- Dynamically add subscription and add-on selections here -->
+
+    Total (per month/year)
+
+    Go Back
+    Confirm
+
+    <!-- Step 4 end -->
+
+    <!-- Step 5 start -->
+
+    Thank you!
+
+    Thanks for confirming your subscription! We hope you have fun 
+    using our platform. If you ever need support, please feel free 
+    to email us at support@loremgaming.com.
+
+    <!-- Step 5 end -->
+    
+    <div class="attribution">
+      Challenge by <a href="https://www.frontendmentor.io?ref=challenge" target="_blank">Frontend Mentor</a>. 
+      Coded by <a href="#">Your Name Here</a>.
+    </div>
